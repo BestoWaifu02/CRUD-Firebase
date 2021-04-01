@@ -15,7 +15,7 @@
 ### Back-End
 
 	1) FireBase
-    2)JavaScript
+    2) JavaScript
    
 
     
